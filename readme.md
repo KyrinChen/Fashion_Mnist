@@ -8,3 +8,5 @@
 >
 > 另外，数据会下载在在C:\Users\\.keras路径下面
 
+*算是my AI hello_world吧！*
+
